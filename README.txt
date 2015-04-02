@@ -1,7 +1,7 @@
 # TookitakiDevChallenge
 Please run the following command to get the output.
 java -jar exec.jar(abosulte path of file)  input.txt(absolute path of file)
-Example: java -jar /home/ash/Desktop/TookitakiDevChallenge/exec.jar /home/ash/Desktop/test.txt
+Example: java -jar /home/dir/exec.jar /home/input/test.txt
 
 
 
