@@ -1,6 +1,0 @@
-# TookitakiDevChallenge
-Please run the following command to get the output.
-
-java -jar nOfScc.jar(abosulte path of file)  input.txt(absolute path of file)
-
-Example: java -jar /home/ash/Desktop/TookitakiDevChallenge/nOfScc.jar /home/ash/Desktop/test.txt
